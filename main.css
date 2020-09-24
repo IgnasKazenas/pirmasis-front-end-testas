@@ -4,6 +4,10 @@ body {
     
     .raudonas-fonas {
         display: inline-block;
+        background-color: red;
+        padding: 10px;
+        border-radius: 10px;
+        color: blue;
     }
     .greeting {
         display: inline-block;
